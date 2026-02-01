@@ -10,9 +10,13 @@
 
 ---
 ⚡️ Quick Start
+---
 install Python 3.11
+---
 pip install -r requirements.txt
+---
 Telegram Bot Token :
+---
 Chat ID :
 ---
 Downloade : Dark-Stealer V 1.2
