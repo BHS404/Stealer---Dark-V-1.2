@@ -8,7 +8,10 @@
 ---
 
 ## ⚡️ Quick Start
-```bash
-git clone https://github.com/YOUR_NAME/Dark-Stealer.git
+ؤ
+
 cd Dark-Stealer
 pip install -r requirements.txt
+
+---
+---
