@@ -48,9 +48,11 @@ Downloade : Dark-Stealer V 1.2
 
 Donations
 If this project has served you well or been useful for resarching, please feel free to donate:
-
+---
 BTC: bc1q9m8h489ha078hmyjplymnryqrgdsqtm4etv3zs
+---
 LTC: ltc1qfcrpmxw742lcef435526lwdqynt8ersmt4yha7
+---
 USDT: TUCra7c48byL4xHfZWnXgmJDuPw9upTPz2
 
 
